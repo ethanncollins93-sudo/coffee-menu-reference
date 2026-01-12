@@ -136,6 +136,14 @@
     are more likely to discover new drinks
     and place orders more efficiently.
   </p>
+<p>
+For readers who prefer accessing this information through a lightweight,
+cloud-based format, an additional
+<a href="https://dutch-bros-menu-cloud.s3.eu-north-1.amazonaws.com/index.html" target="_blank" rel="noopener noreferrer">
+cloud-hosted menu reference
+</a>
+is available, providing a simple and accessible version of the menu overview.
+</p>
 
   <p>
     For those looking for a structured and up-to-date reference,
@@ -168,3 +176,4 @@
 
 </body>
 </html>
+
