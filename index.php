@@ -8,6 +8,15 @@
   <title>Dutch Bros Menu 2026 – Pricing, Drink Comparisons & Smart Ordering Guide</title>
   <meta name="description" content="Master the Dutch Bros menu with pricing insights, drink category comparisons, calorie guides, and strategic ordering tips for coffee, Rebels, and specialty beverages.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- IMPORTANT: allow indexing -->
+  <meta name="robots" content="index, follow">
+
+  <!-- IMPORTANT: Google Search Console verification -->
+  <meta name="google-site-verification" content="uMr05u3hKcObIBcAUXmkObMNQzPqwT1eaNDTCCGxN8A" />
+
+  <!-- IMPORTANT: self canonical -->
+  <link rel="canonical" href="https://dutch-bros-menu-guide-fd60a8c85ad3.herokuapp.com/" />
+  
   <style>
     * {
       margin: 0;
